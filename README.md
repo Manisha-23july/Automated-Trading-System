@@ -4,4 +4,12 @@ A simple Python-based algorithmic trading bot that implements a Moving Average C
 This project is designed as an introductory quantitative trading backtester to evaluate how a simple trend-following strategy performs against a buy-and-hold market return.
 
 ---
+
 ## 📋Table of Contents 
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Prerequisites & Installation](#prerequisites-&-installation)
+- [How to Run](#how-to-run)
+- [Configuration](#configuration)
+- [Future Improvements](#future-improvements)
