@@ -35,4 +35,13 @@ Algorithmic trading leverages computer programs to execute trading decisions bas
 ---
 
 ## 🛠Prerequisites & Installation
+### **System Requirements**
+- [] Python 3.8+
+
+### **Installation Steps**
+1.  **Clone the repository**
+```bash
+   git clone [https://github.com/Manisha-23july/Automated-Trading-System.git](https://github.com/Manisha-23july/Automated-Trading-System.git)
+   cd Automated-Trading-System
+
 
