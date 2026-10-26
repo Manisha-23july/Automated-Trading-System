@@ -36,7 +36,7 @@ Algorithmic trading leverages computer programs to execute trading decisions bas
 
 ## 🛠Prerequisites & Installation
 ### **System Requirements**
-- [] Python 3.8+
+-[] Python 3.8+
 
 ### **Installation Steps**
 1.  **Clone the repository**
