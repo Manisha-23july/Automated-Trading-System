@@ -40,8 +40,9 @@ Algorithmic trading leverages computer programs to execute trading decisions bas
 
 ### **Installation Steps**
 1.  **Clone the repository**
-```bash 
-```Bash```
+```text
+Bash
+```bash
    git clone [https://github.com/Manisha-23july/Automated-Trading-System.git](https://github.com/Manisha-23july/Automated-Trading-System.git)
    cd Automated-Trading-System
 
