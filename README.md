@@ -13,3 +13,8 @@ This project is designed as an introductory quantitative trading backtester to e
 - [How to Run](#how-to-run)
 - [Configuration](#configuration)
 - [Future Improvements](#future-improvements)
+
+---
+
+# 📌Introduction 
+
